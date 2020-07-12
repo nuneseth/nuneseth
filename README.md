@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Anderson 👋
 
-<!--
-**andersonef/andersonef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software engineer at Logcomex
 
-Here are some ideas to get you started:
+🍔 Personal family chef at free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍👩‍👧‍👦 Husband of one, father of two
+
+🇧🇷 Living in Pinhais/PR, Brazil
+
+🇧🇷 Working in Curitiba/PR, Brazil
+
+### You can find me
+
+ℹ️ <a href="https://AndersonSilva.dev" target="_blank">www.AndersonSilva.dev</a>
+
+🖊️ <a href="https://www.linkedin.com/in/andersontrti/" target="_blank">Linkedin</a>
+
+🐦 <a href="https://twitter.com/estilofacil" target="_blank">Twitter</a>
