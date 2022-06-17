@@ -1,4 +1,4 @@
-![AndersonSilva dev banner](https://raw.githubusercontent.com/andersonef/andersonef/master/banner2.png)
+![AndersonSilva dev banner](https://raw.githubusercontent.com/andersonef/andersonef/master/banner2.jpg)
 
 <h2>Hey there! I'm Anderson</h2>
 
