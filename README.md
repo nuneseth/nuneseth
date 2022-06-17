@@ -15,6 +15,8 @@
 📄 &nbsp;Please have a look at my [Website](https://www.andersonsilva.dev) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/andersonef/andersonef/master/Night-Coding.gif" align="right"/>
+<br>
+
 
 ### 🛠 &nbsp;Tech Stack
 
