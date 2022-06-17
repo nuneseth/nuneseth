@@ -1,6 +1,6 @@
 ![AndersonSilva dev banner](https://raw.githubusercontent.com/andersonef/andersonef/master/banner2.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Anderson</h2>
+<h2>Hey there! I'm Anderson</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Anderson -->
 
