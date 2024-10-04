@@ -1,4 +1,4 @@
-![AndersonSilva dev banner](https://raw.githubusercontent.com/andersonef/andersonef/master/banner2.jpg)
+![AndersonSilva dev banner](https://raw.githubusercontent.com/nuneseth/nuneseth/master/banner2.jpg)
 
 <h2>Hey there! I'm Anderson</h2>
 
@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at anderson.nuneseth@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Website](https://www.andersonsilva.dev) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/andersonef/andersonef/master/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/nuneseth/nuneseth/master/Night-Coding.gif" align="right"/>
 <br>
 
 
@@ -40,9 +40,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/andersonef">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andersonef&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andersonef&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nuneseth">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nuneseth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuneseth&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
