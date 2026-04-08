@@ -1,62 +1,68 @@
 ![AndersonSilva dev banner](https://raw.githubusercontent.com/nuneseth/nuneseth/master/banner2.jpg)
 
-<h2>Hey there! I'm Anderson</h2>
+<div align="center">
+  <h1>Hi, I'm Anderson 👋</h1>
+  <p><strong>Principal Software Engineer | Tech Lead | Crafting Scalable Solutions</strong></p>
+</div>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Anderson -->
+---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-💡 &nbsp;I'm passionate by technology since my childhood.\
-🎓 &nbsp;I'm working as a tech leader in a fast growing startup in Brazil.\
-🌱 &nbsp;I'm learning more about microservices and mesageria, working with AWS infrastructure .\
-✍️ &nbsp;In my free time, I love to play games and having fun with my kids.\
-💬 &nbsp;Feel free to reach out to me for freelance job, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at anderson.nuneseth@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.andersonsilva.dev) for more details about me. I'm open to feedback and suggestions!
+Estou na tecnologia desde cedo, acumulando mais de **18 anos de experiência**. Atualmente, atuo como **Principal Engineer** em uma startup de rápido crescimento, liderando times e arquitetando soluções robustas.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/nuneseth/nuneseth/master/Night-Coding.gif" align="right"/>
-<br>
+* 🔭 **Atualmente focado em:** Microserviços, Mensageria (RabbitMQ) e Infraestrutura AWS.
+* 🚀 **Side Projects:** Criando ferramentas úteis com IA e automação.
+* 🎮 **Personal:** Gamer (PS5/PC) e pai dedicado. Entusiasta de ficção científica e universos distópicos.
+* 🎯 **Foco Técnico:** Especialista em ecossistema PHP/Laravel e arquiteturas modernas de backend.
 
+---
 
-### 🛠 &nbsp;Tech Stack
+### 🚀 Featured Projects
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=FFA518)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=FFA518)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMq&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue%20Js-05122A?style=flat&logo=vue.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Scribossauro](https://scribossauro.com)** | Assistente de reuniões e transcrição de áudio com IA. | Laravel, OpenAI API, AWS |
+| **[FlowDesk](https://flowdesk.pro)** | Solução moderna para gestão de fluxos e atendimento. | PHP, Vue.js, MySQL |
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### 🛠 Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nuneseth">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nuneseth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nuneseth&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p align="center">
-<a href="https://www.AndersonSilva.dev"><img src="https://img.shields.io/badge/-AndersonSilva.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/andersontrti"><img src="https://img.shields.io/badge/-Anderson N. Silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anderson.nuneseth@gmail.com"><img src="https://img.shields.io/badge/-anderson.nuneseth@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/andersontrti"><img src="https://img.shields.io/badge/-@andersontrti-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/andersontrti"><img src="https://img.shields.io/badge/-@andersontrti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+### 🤝🏻 Connect with Me
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+<div align="center">
+  <a href="https://www.AndersonSilva.dev"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/andersontrti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anderson.nuneseth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/andersontrti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
-Last Edited on: 2022-06-17
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nuneseth/nuneseth/master/Night-Coding.gif" width="400px"/>
+</div>
